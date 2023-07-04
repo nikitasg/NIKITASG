@@ -1,4 +1,4 @@
-name: My atest blog post workflow
+name: My latest blog post workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/ngargoulakis,https://www.allaboutcloud.co.uk/feed/"
+          max_post_count: 8
