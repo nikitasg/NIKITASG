@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/ngargoulakis,https://medium.com/feed/@ngargoulakis"
+          feed_list: "https://dev.to/feed/ngargoulakis,https://www.allaboutcloud.co.uk/feed/"
