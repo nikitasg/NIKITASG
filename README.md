@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://dev.to/ngargoulakis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ngargoulakis" height="30" width="40" /></a>
 <a href="https://medium.com/@ngargoulakis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ngargoulakis" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/allaboutcloud.co.uk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="allaboutcloud.co.uk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
