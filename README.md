@@ -12,6 +12,9 @@
 - [AWS Security- Essential Tools and Services](https://www.allaboutcloud.co.uk/aws-security-essential-tools-and-services/)
 - [Secure Remote Access - EC2 Instance Connect Endpoint](https://dev.to/aws-builders/secure-remote-access-ec2-instance-connect-endpoint-5h3n)
 - [Amazon Workspaces Deployment](https://www.allaboutcloud.co.uk/amazon-workspaces-deployment/)
+- [Deploy Amazon Workspaces using Service Catalog](https://dev.to/aws-builders/deploy-amazon-workspaces-using-service-catalog-2c9e)
+- [How to implement a Mesh Network on AWS](https://dev.to/aws-builders/how-to-implement-a-mesh-network-on-aws-569p)
+- [How to implement a Mesh Network on AWS](https://www.allaboutcloud.co.uk/aws-wireguard-mesh-network/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
