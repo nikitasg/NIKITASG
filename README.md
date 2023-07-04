@@ -7,6 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Forecast - Empowering Accurate and Data-Driven Predictions](https://dev.to/aws-builders/amazon-forecast-empowering-accurate-and-data-driven-predictions-4kl5)
+- [AWS Community Builders Program](https://medium.com/@ngargoulakis/aws-community-builders-program-9def199e9a95?source=rss-6862c34f72f9------2)
+- [Secure Remote Access - EC2 Instance Connect Endpoint](https://dev.to/aws-builders/secure-remote-access-ec2-instance-connect-endpoint-5h3n)
+- [Deploy Amazon Workspaces using Service Catalog](https://dev.to/aws-builders/deploy-amazon-workspaces-using-service-catalog-2c9e)
+- [How to implement a Mesh Network on AWS](https://dev.to/aws-builders/how-to-implement-a-mesh-network-on-aws-569p)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
