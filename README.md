@@ -9,10 +9,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to detect Forest fires using Kinesis Video Streams and Amazon Rekognition](https://dev.to/aws-builders/how-to-detect-forest-fires-using-kinesis-video-streams-and-rekognition-4he8)
 - [Amazon Forecast - Empowering Accurate and Data-Driven Predictions](https://dev.to/aws-builders/amazon-forecast-empowering-accurate-and-data-driven-predictions-4kl5)
-- [Applications are now open for AWS Community Builders program](https://www.allaboutcloud.co.uk/applications-are-now-open-for-aws-community-builders-program/)
-- [AWS Security- Essential Tools and Services](https://www.allaboutcloud.co.uk/aws-security-essential-tools-and-services/)
 - [Secure Remote Access - EC2 Instance Connect Endpoint](https://dev.to/aws-builders/secure-remote-access-ec2-instance-connect-endpoint-5h3n)
-- [Amazon Workspaces Deployment](https://www.allaboutcloud.co.uk/amazon-workspaces-deployment/)
 - [Deploy Amazon Workspaces using Service Catalog](https://dev.to/aws-builders/deploy-amazon-workspaces-using-service-catalog-2c9e)
 - [How to implement a Mesh Network on AWS](https://dev.to/aws-builders/how-to-implement-a-mesh-network-on-aws-569p)
 <!-- BLOG-POST-LIST:END -->
