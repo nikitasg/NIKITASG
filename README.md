@@ -12,9 +12,6 @@
 - [Building a GitOps Pipeline with Amazon EKS](https://www.allaboutcloud.co.uk/building-a-gitops-pipeline-with-amazon-eks-a-definitive-guide/)
 - [Amazon Forecast - Empowering Accurate and Data-Driven Predictions](https://dev.to/aws-builders/amazon-forecast-empowering-accurate-and-data-driven-predictions-4kl5)
 - [Applications are now open for AWS Community Builders program](https://www.allaboutcloud.co.uk/applications-are-now-open-for-aws-community-builders-program/)
-- [AWS Security- Essential Tools and Services](https://www.allaboutcloud.co.uk/aws-security-essential-tools-and-services/)
-- [Secure Remote Access - EC2 Instance Connect Endpoint](https://dev.to/aws-builders/secure-remote-access-ec2-instance-connect-endpoint-5h3n)
-- [Amazon Workspaces Deployment](https://www.allaboutcloud.co.uk/amazon-workspaces-deployment/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
