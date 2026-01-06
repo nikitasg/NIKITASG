@@ -7,6 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kiro CLI – Transform Your Terminal into an AI-Powered AWS Architecture Studio](https://www.allaboutcloud.co.uk/kiro-cli-transform-your-terminal-into-an-ai-powered-aws-architecture-studio/)
 - [How to detect Forest fires using Kinesis Video Streams and Amazon Rekognition](https://www.allaboutcloud.co.uk/how-to-detect-forest-fires-using-kinesis-video-streams-and-amazon-rekognition/)
 - [How to detect Forest fires using Kinesis Video Streams and Amazon Rekognition](https://dev.to/aws-builders/how-to-detect-forest-fires-using-kinesis-video-streams-and-rekognition-4he8)
 - [Building a GitOps Pipeline with Amazon EKS](https://www.allaboutcloud.co.uk/building-a-gitops-pipeline-with-amazon-eks-a-definitive-guide/)
@@ -14,7 +15,6 @@
 - [Applications are now open for AWS Community Builders program](https://www.allaboutcloud.co.uk/applications-are-now-open-for-aws-community-builders-program/)
 - [AWS Security- Essential Tools and Services](https://www.allaboutcloud.co.uk/aws-security-essential-tools-and-services/)
 - [Secure Remote Access - EC2 Instance Connect Endpoint](https://dev.to/aws-builders/secure-remote-access-ec2-instance-connect-endpoint-5h3n)
-- [Amazon Workspaces Deployment](https://www.allaboutcloud.co.uk/amazon-workspaces-deployment/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
