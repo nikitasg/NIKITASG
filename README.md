@@ -7,8 +7,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Common AWS Architecture Mistakes](https://www.allaboutcloud.co.uk/common-aws-architecture-mistakes/)
 - [Kiro CLI – Transform Your Terminal into an AI-Powered AWS Architecture Studio](https://www.allaboutcloud.co.uk/kiro-cli-transform-your-terminal-into-an-ai-powered-aws-architecture-studio/)
+- [Common AWS Architecture Mistakes](https://www.allaboutcloud.co.uk/common-aws-architecture-mistakes/)
 - [How to detect Forest fires using Kinesis Video Streams and Amazon Rekognition](https://www.allaboutcloud.co.uk/how-to-detect-forest-fires-using-kinesis-video-streams-and-amazon-rekognition/)
 - [How to detect Forest fires using Kinesis Video Streams and Amazon Rekognition](https://dev.to/aws-builders/how-to-detect-forest-fires-using-kinesis-video-streams-and-rekognition-4he8)
 - [Building a GitOps Pipeline with Amazon EKS](https://www.allaboutcloud.co.uk/building-a-gitops-pipeline-with-amazon-eks-a-definitive-guide/)
