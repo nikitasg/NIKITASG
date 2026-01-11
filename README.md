@@ -8,13 +8,13 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Kiro CLI – Transform Your Terminal into an AI-Powered AWS Architecture Studio](https://www.allaboutcloud.co.uk/kiro-cli-transform-your-terminal-into-an-ai-powered-aws-architecture-studio/)
+- [AWS Backup for VMware-Ransomware Protection Implementation Guide](https://www.allaboutcloud.co.uk/aws-backup-for-vmware-ransomware-protection-implementation-guide/)
 - [Common AWS Architecture Mistakes](https://www.allaboutcloud.co.uk/common-aws-architecture-mistakes/)
 - [How to detect Forest fires using Kinesis Video Streams and Amazon Rekognition](https://www.allaboutcloud.co.uk/how-to-detect-forest-fires-using-kinesis-video-streams-and-amazon-rekognition/)
 - [How to detect Forest fires using Kinesis Video Streams and Amazon Rekognition](https://dev.to/aws-builders/how-to-detect-forest-fires-using-kinesis-video-streams-and-rekognition-4he8)
 - [Building a GitOps Pipeline with Amazon EKS](https://www.allaboutcloud.co.uk/building-a-gitops-pipeline-with-amazon-eks-a-definitive-guide/)
 - [Amazon Forecast - Empowering Accurate and Data-Driven Predictions](https://dev.to/aws-builders/amazon-forecast-empowering-accurate-and-data-driven-predictions-4kl5)
 - [Applications are now open for AWS Community Builders program](https://www.allaboutcloud.co.uk/applications-are-now-open-for-aws-community-builders-program/)
-- [AWS Security- Essential Tools and Services](https://www.allaboutcloud.co.uk/aws-security-essential-tools-and-services/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
