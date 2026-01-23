@@ -7,6 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Complete Guide to AWS Monitoring and Observability for DevOps Teams](https://dev.to/aws-builders/complete-guide-to-aws-monitoring-and-observability-for-devops-teams-1e2f)
 - [Complete Guide to AWS Monitoring and Observability for DevOps Teams](https://www.allaboutcloud.co.uk/complete-guide-to-aws-monitoring-and-observability-for-devops-teams/)
 - [Kiro CLI – Transform Your Terminal into an AI-Powered AWS Architecture Studio](https://dev.to/aws-builders/kiro-cli-transform-your-terminal-into-an-ai-powered-aws-architecture-studio-1m1i)
 - [Kiro CLI – Transform Your Terminal into an AI-Powered AWS Architecture Studio](https://www.allaboutcloud.co.uk/kiro-cli-transform-your-terminal-into-an-ai-powered-aws-architecture-studio/)
@@ -14,7 +15,6 @@
 - [Common AWS Architecture Mistakes](https://www.allaboutcloud.co.uk/common-aws-architecture-mistakes/)
 - [How to detect Forest fires using Kinesis Video Streams and Amazon Rekognition](https://www.allaboutcloud.co.uk/how-to-detect-forest-fires-using-kinesis-video-streams-and-amazon-rekognition/)
 - [How to detect Forest fires using Kinesis Video Streams and Amazon Rekognition](https://dev.to/aws-builders/how-to-detect-forest-fires-using-kinesis-video-streams-and-rekognition-4he8)
-- [Building a GitOps Pipeline with Amazon EKS](https://www.allaboutcloud.co.uk/building-a-gitops-pipeline-with-amazon-eks-a-definitive-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
