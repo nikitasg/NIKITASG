@@ -12,9 +12,6 @@
 - [Kiro CLI – Transform Your Terminal into an AI-Powered AWS Architecture Studio](https://dev.to/aws-builders/kiro-cli-transform-your-terminal-into-an-ai-powered-aws-architecture-studio-1m1i)
 - [Kiro CLI – Transform Your Terminal into an AI-Powered AWS Architecture Studio](https://www.allaboutcloud.co.uk/kiro-cli-transform-your-terminal-into-an-ai-powered-aws-architecture-studio/)
 - [Common AWS Architecture Mistakes](https://www.allaboutcloud.co.uk/common-aws-architecture-mistakes/)
-- [How to Protect VMware VMs from Ransomware with AWS Backup](https://dev.to/ngargoulakis/how-to-protect-vmware-vms-from-ransomware-with-aws-backup-2hh1)
-- [How to Protect VMware VMs from Ransomware with AWS Backup](https://www.allaboutcloud.co.uk/how-to-protect-vmware-vms-from-ransomware-with-aws-backup/)
-- [How to detect Forest fires using Kinesis Video Streams and Amazon Rekognition](https://www.allaboutcloud.co.uk/how-to-detect-forest-fires-using-kinesis-video-streams-and-amazon-rekognition/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
